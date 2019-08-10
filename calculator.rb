@@ -1,7 +1,7 @@
-  first_number = get_variable_from_file('./calculator.rb', "first_number")
+  first_number = 1
  
-second_number =
-third_number =
-fourth_number = 
-fifth_number =
-sixth_number =
+second_number = 4
+third_number = 6
+fourth_number = 9 
+fifth_number = 5
+sixth_number = 4
